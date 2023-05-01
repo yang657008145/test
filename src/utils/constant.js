@@ -1,5 +1,5 @@
 export default {
-  baseURL: "http://localhost:8081",
+  baseURL: "https://zyr-im-production.up.railway.app",
   imBaseURL: "http://localhost:81",
   webURL: "http://localhost",
 
