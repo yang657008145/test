@@ -1,0 +1,5 @@
+deployment:
+  - name: my-vue-project
+    type: docker
+    configVars:
+      - PORT: 80
